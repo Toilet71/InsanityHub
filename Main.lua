@@ -1,5 +1,7 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+--⚠️Keyless!⚠️
 
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+warn("Keyless + Release!")
 OrionLib:MakeNotification({
 	Name = "Loaded",
 	Content = "Loaded (Copyied YouTube info)",
